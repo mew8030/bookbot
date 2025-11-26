@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# directories
+/books
+
 # C extensions
 *.so
 
